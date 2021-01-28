@@ -1,2 +1,4 @@
 # JetBrains
 .idea
+# jquery types
+node_modules
